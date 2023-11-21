@@ -24,6 +24,7 @@ seaborn
 
 Network architecture comprises of an encoder and decoder made using LSTM and Linear layers.
 
+Threshold value set 26
 
 
 
